@@ -92,7 +92,6 @@
     neovim
     vim
     obsidian
-    xournalpp
     git
     ripgrep
     tree-sitter

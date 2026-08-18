@@ -23,6 +23,7 @@
   # environment.
   home.packages = with pkgs; [
     cowsay
+    xounalpp
     # # Adds the 'hello' command to your environment. It prints a friendly
     # # "Hello, world!" when run.
     # pkgs.hello
